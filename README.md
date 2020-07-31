@@ -10,8 +10,7 @@
 |Birthday:|28/02/1986|
 |Favorite color:| blue
 |Favorite food:|Asian food |
-|Pinneaple on pizza:| <input type="checkbox"> yes, there is a checkbox in markdown but somehow it doesn't show :)
-
+|Pinneaple on pizza:| :+1:
 ### Hobbies
 * Reading
     * De Standaard
