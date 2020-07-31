@@ -1,16 +1,15 @@
 # Tessa Kam
 
+*Quote: If your job fills your day but not your heart, something's not right - Clen Verkleij*
 ![image](TessaKam_LR.png)
 
-*Quote: If your job fills your day but not your heart, something's not right - Clen Verkleij*
-
-##### Positive, enthusiastic and eager to learn!
+###### Positive, enthusiastic and eager to learn!
 |||
 |--- | ---|
 |Birthday:|28/02/1986|
 |Favorite color:| blue
 |Favorite food:|Asian food |
-|Pinneaple on pizza:| <input type="checkbox">
+|Pinneaple on pizza:| <input type="checkbox"> yes there is a checkbox in markdown but somehow it doesn't show :)
 
 ### Hobbies
 * Reading
