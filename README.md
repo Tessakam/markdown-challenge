@@ -26,7 +26,7 @@ you need someone to listen and doesn't judge. I'll try to help... if I can and h
 
 ### A funny story
 Not sure if this is a funny story, but maybe it's a fun fact.
-I've been scared of worms for a long time. When I was little I got a McDonald Magic box. It contained flower bulbs for Hyacinths and during planting I came across worms of course. It took until this year before I overcame my "trauma" and dare to pickup a worm.
+I've been scared of worms for a long time. When I was little I got a McDonald's Magic box. It contained flower bulbs for Hyacinths and during planting I came across worms of course. It took until this year before I overcame my "trauma" and dare to pickup a worm.
 
 ![alt text](https://media.giphy.com/media/20H2mb2XvpncDGsdXj/giphy.gif)
 
